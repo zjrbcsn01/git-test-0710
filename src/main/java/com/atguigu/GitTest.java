@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("hot-fix 冲突测试01...");
         System.out.println("online测试...");
         System.out.println("online测试...");
+        System.out.println("online测试123...");
     }
 }
